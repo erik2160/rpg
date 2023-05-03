@@ -1,0 +1,8 @@
+fraseGuerreiro = ["Um guerreiro é uma classe de combate corpo a corpo que se concentra em resistência, força e habilidade com armas. Eles são geralmente os tanques do grupo e podem absorver muitos danos enquanto causam danos significativos aos inimigos."]
+atributosGuerreiro = ["Golpe Poderoso: Causa dano significativo em um único alvo.\nEscudo Protetor: Reduz o dano recebido por um período de tempo.\nCarga: Investe em direção a um alvo, causando dano em área."]
+
+fraseMago = ["Um mago é uma classe de combate à distância que se concentra em magia e habilidades de suporte. Eles geralmente são frágeis em combate corpo a corpo, mas podem causar danos poderosos à distância e podem curar a si e proteger a si mesmo."]
+atributosMago = ["Bola de Fogo: Causa dano em área a todos os inimigos próximos.\nCura: Restaura uma quantidade significativa de pontos de vida.\nEscudo Mágico: Protege o player do dano recebido por um período de tempo."]
+
+fraseLadino = ["Um ladino é uma classe de combate furtivo que se concentra em furtividade, agilidade e habilidades de espionagem. Eles são geralmente os batedores do grupo e podem evitar perigos e armadilhas, além de infligir danos críticos com ataques furtivos."]
+atributosLadino = ["Ataque Furtivo: Causa dano crítico a um único alvo, se executado de maneira furtiva.\nDesarmar inimigo: Tem a chance de desarmar um inimigo.\nFurtividade: O player se torna invisível por um período de tempo, ficando imune à ataques."]

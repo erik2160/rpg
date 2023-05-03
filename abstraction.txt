@@ -1,0 +1,11 @@
+LUTA
+
+INVENTÁRIO
+
+
+
+LOJA
+compra itens por classe;
+verificação se um item já foi comprado; [ COMPRADO ] ou sai da loja
+printar preço e atributos do item;
+printar item;

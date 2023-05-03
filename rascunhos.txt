@@ -1,0 +1,42 @@
+Três classes
+
+Guerreiro: Um guerreiro é uma classe de combate corpo a corpo que se concentra em 
+resistência, força e habilidade com armas. Eles são geralmente os tanques do grupo 
+e podem absorver muitos danos enquanto causam danos significativos aos 
+inimigos.
+
+Mago: Um mago é uma classe de combate à distância que se concentra em magia e 
+habilidades de suporte. Eles são geralmente frágeis em combate corpo a corpo, mas 
+podem causar danos poderosos à distância e podem curar e proteger seus 
+companheiros de equipe.
+
+Ladino: Um ladino é uma classe de combate furtivo que se concentra em furtividade,
+agilidade e habilidades de espionagem. Eles são geralmente os batedores do grupo 
+e podem evitar perigos e armadilhas, além de infligir danos críticos com ataques 
+furtivos.
+
+HABILIDADES
+
+Guerreiro:
+Golpe Poderoso: Causa dano significativo em um único alvo.
+
+Escudo Protetor: Reduz o dano recebido por um período de tempo.
+
+Carga: Investe em direção a um alvo, causando dano em área.
+
+Mago:
+Bola de Fogo: Causa dano em área a todos os inimigos próximos.
+
+Cura: Restaura uma quantidade significativa de pontos de vida para um alvo aliado.
+
+Escudo Mágico: Protege o alvo de danos mágicos por um período de tempo.
+
+Ladino:
+Ataque Furtivo: Causa dano crítico a um único alvo, se executado de maneira furtiva.
+
+Desarmar Armadilha: Desativa armadilhas ou dispositivos explosivos.
+
+Furtividade: O personagem se torna invisível por um período de tempo, ficando imune à ataques.
+
+LORE:
+
