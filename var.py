@@ -14,5 +14,5 @@ inventarioM = ["Pot 1", "Pot 2"]
 inventarioL = ["Pistol 1", "Pistol 2"]
 
 vida = 100
-ouro = 500
+ouro = 1000
 nivel = 1
