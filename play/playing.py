@@ -3,7 +3,6 @@ import var
 import os
 import time
 import play.loja
-import random
 
 # var.nome = "Erik"
 # var.classeipt = ["Guerreiro", "Mago", "Ladino"]
